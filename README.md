@@ -4,6 +4,12 @@ A lightweight front-end financials project built with HTML, CSS, and JavaScript.
 
 > NOTE: This README is a starting template. Update the sections below to better reflect the project's purpose, data sources, and deployment details.
 
+## Demo
+
+Live demo / repository: https://github.com/vejay-ahmed/mabkano-financials
+
+Screenshots: (none added yet) — to include screenshots, upload image files and I'll add them to `assets/screenshots/` and embed them here.
+
 ## Languages
 
 This repository is primarily a static front-end project with the following language composition:
